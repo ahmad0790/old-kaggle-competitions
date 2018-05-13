@@ -260,6 +260,3 @@ enrollment_train_agg$module_start <- NULL
 enrollment_test_agg$module_start <- NULL
 
 detach(package: plyr)
-
-
-
