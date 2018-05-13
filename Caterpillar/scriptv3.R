@@ -1,6 +1,4 @@
 set.seed(2)
-# Start the clock!
-### Change base to the folder name of your data
 setwd("/Users/ahkhan/Documents/Kaggle/Caterpillar")
 base = "/Users/ahkhan/Documents/Kaggle/Caterpillar/competition_data/"
 test = read.csv(paste0(base, "test_set.csv"))
